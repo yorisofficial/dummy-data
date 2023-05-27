@@ -3,12 +3,13 @@
 Example :
 ```
 {
-    "nama": "Anjing Daisy",
-    "usia": 2.5,
-    "berat_badan": 7.8,
-    "cerita": "Daisy adalah anjing yang manis dan aktif. Dia suka berlari di taman dan senang bermain dengan frisbee.",
-    "nama_pemilik": "Benjamin Anderson",
-    "nomor_tlp_pemilik": "088888777666",
-    "lokasi_kota": "Surabaya"
-  },
+  "jenis_hewan": "Cat",
+  "nama": "Simba",
+  "usia": 3.5,
+  "berat_badan": 5.7,
+  "cerita": "Simba adalah kucing yang gagah dan lincah. Dia suka menjelajah di luar dan sering bermain dengan bola karet.",
+  "nama_pemilik": "Sophia Martinez",
+  "nomor_tlp_pemilik": "081111222333",
+  "lokasi_kota": "Jakarta"
+},
 ```
